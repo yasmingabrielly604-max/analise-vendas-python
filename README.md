@@ -1,17 +1,75 @@
-### 4. Salve no GitHub
+````markdown
+# 📊 Análise de Vendas em Python
 
-Depois de colocar o conteúdo, pressione:
+## 📌 Sobre o projeto
 
-**`Ctrl + S`**
+Este projeto foi desenvolvido para praticar conceitos fundamentais da linguagem Python através de uma análise simples de vendas.
 
-Se o Codespaces não salvar automaticamente, procure a opção de salvar.
+O programa armazena informações sobre produtos e realiza cálculos como:
 
-Depois precisamos fazer o **commit** dessa alteração para ela aparecer no seu GitHub.
+- Valor total das vendas
+- Preço médio dos produtos
+- Produto mais caro
+- Produto mais barato
 
-### ⚠️ Importante
+## 🛠️ Tecnologias utilizadas
 
-Não precisa mexer no `main.py` agora. Ele já está funcionando. ✅
+- Python
+- Git
+- GitHub
+- GitHub Codespaces
 
-Primeiro vamos colocar o README, salvar e fazer o commit.
+## 📚 Conceitos praticados
 
-**Depois me mande um print da tela do `README.md` no Codespaces** que eu te mostro exatamente como fazer o commit. 🚀
+Durante o desenvolvimento deste projeto, foram praticados:
+
+- Listas
+- Dicionários
+- Funções
+- Estruturas de repetição `for`
+- Estruturas condicionais `if`
+- Variáveis
+- Operadores
+- `return`
+- Formatação de valores
+- Organização e indentação de código
+
+## ▶️ Como executar
+
+1. Clone este repositório ou abra o projeto no GitHub Codespaces.
+2. Abra o arquivo `main.py`.
+3. Execute o comando:
+
+```bash
+python main.py
+
+Exemplo de resultado
+====== PRODUTOS =======
+
+
+Produto: Notebook | Preço: R$ 3500.00 | Categoria: Acessórios
+Produto: Mouse | Preço: R$ 50.00 | Categoria: Acessórios
+Produto: Monitor | Preço: R$ 800.00 | Categoria: Eletrônicos
+Produto: Teclado | Preço: R$ 150.00 | Categoria: Acessórios
+Produto: Webcam | Preço: R$ 200.00 | Categoria: Acessórios
+
+
+====== RESULTADOS ======
+
+
+Valor total: R$ 4700.00
+Preço médio: R$ 940.00
+Produto mais caro: Notebook - R$ 3500.00
+Produto mais barato: Mouse - R$ 50.00
+
+Objetivo
+
+Este projeto faz parte do meu processo de aprendizagem em programação e desenvolvimento de software.
+
+Estou utilizando projetos práticos para desenvolver minhas habilidades em Python, Git e GitHub.
+
+👩‍💻 Autora
+
+Yasmin
+
+Estudante de programação e desenvolvimento de software.
